@@ -1,6 +1,6 @@
 # Business Portfolio Website — BS
 
-A front-end portfolio website created to present a professional profile and work through a simple, responsive web experience.
+A front-end portfolio website created for another person to present a professional profile and work through a simple, responsive web experience.
 
 ## 🛠️ Built With
 
@@ -20,11 +20,11 @@ A front-end portfolio website created to present a professional profile and work
 ## 🎯 What This Project Demonstrates
 
 - Building a website from an existing design concept
-- Responsive front-end implementation
+- Implementing responsive front-end layouts
 - HTML/CSS page structure and styling
-- Practical UI development
+- Practical UI development for another person's project
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Mohd Kamran Siddiquee**  
 Mumbai, India
