@@ -1,15 +1,15 @@
 # Business Portfolio Website — BS
 
-A front-end portfolio website created for another person to present a professional profile and work through a simple, responsive web experience.
+A responsive front-end portfolio website created to present a professional profile and work through a simple web experience.
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
+- Responsive web design
 
-## ✨ Highlights
+## Project Highlights
 
 - Responsive layout
 - Portfolio-oriented design
@@ -17,16 +17,14 @@ A front-end portfolio website created for another person to present a profession
 - Mobile-friendly presentation
 - User-focused navigation
 
-## 🎯 What This Project Demonstrates
+## Run Locally
 
-- Building a website from an existing design concept
-- Implementing responsive front-end layouts
-- HTML/CSS page structure and styling
-- Practical UI development for another person's project
+Open `index.html` in a browser or use the VS Code Live Server extension.
 
-## 👨‍💻 Developer
+## Privacy and Publishing
 
-**Mohd Kamran Siddiquee**  
-Mumbai, India
+Keep this repository focused on website code and approved public-facing content. Do not commit resumes, identity documents, private contact details, or other personal records to a public repository. Confirm permission before publishing another person's name, photos, profile, or work samples.
 
-GitHub: https://github.com/skamran0786
+## Developer
+
+Mohd Kamran Siddiquee — https://github.com/skamran0786
